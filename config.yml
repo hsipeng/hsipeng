@@ -1,0 +1,19 @@
+# site title
+title: Re:ゼロ| 无颜
+
+# github user
+user: lirawx
+
+# issue repository
+repository: mirror
+
+# multi-author
+authors:
+
+# token
+# token should be separated by '#'
+# example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
+token: 3#7e09f384d0a761a8901b59d5e903651eeb34435
+
+# posts per page
+perpage: 5
