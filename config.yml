@@ -5,10 +5,10 @@ title: Re:ゼロ| 无颜
 user: lirawx
 
 # issue repository
-repository: mirror
+repository: blog
 
 # multi-author
-authors:
+authors: lirawx
 
 # token
 # token should be separated by '#'
