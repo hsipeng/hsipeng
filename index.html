@@ -79,31 +79,38 @@ cDKc.     .;IocXQW8c  .;cKX.      .cE##0B#0Q#####00###@@#@#BPc;,..         .;cZE
 
 -->
 <html lang="en" class="loading">
-
-<head>
-    <meta charset="UTF-8">
-    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <meta name="viewport" content="width=device-width,minimum-scale=1,maximum-scale=1,user-scalable=no">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+    <meta
+      name="viewport"
+      content="width=device-width,minimum-scale=1,maximum-scale=1,user-scalable=no"
+    />
     <title>Loading...</title>
     <script>
-    window.config= {
-  "title":"笔记归档", "user":"lirawx", "repository":"note", "authors": "lirawx", "token":"3#7e09f384d0a761a8901b59d5e903651eeb34435", "perpage":5
-}
+      window.config = {
+        title: "笔记归档",
+        user: "lirawx",
+        repository: "note",
+        authors: "lirawx",
+        token: "3#7e09f384d0a761a8901b59d5e903651eeb34435",
+        perpage: 5
+      };
     </script>
     <style>
-    .error,
-    .loading,
-    .transition {
-        height: 100%
-    }
+      .error,
+      .loading,
+      .transition {
+        height: 100%;
+      }
 
-    .error body,
-    .loading body,
-    .transition body {
-        height: 100%
-    }
+      .error body,
+      .loading body,
+      .transition body {
+        height: 100%;
+      }
 
-    #loader {
+      #loader {
         text-align: center;
         position: fixed;
         z-index: 3;
@@ -113,17 +120,17 @@ cDKc.     .;IocXQW8c  .;cKX.      .cE##0B#0Q#####00###@@#@#BPc;,..         .;cZE
         width: 100%;
         opacity: 0;
         visibility: hidden;
-        -webkit-transition: all .3s ease;
-        transition: all .3s ease;
-        background-color: rgba(255, 255, 255, .9)
-    }
+        -webkit-transition: all 0.3s ease;
+        transition: all 0.3s ease;
+        background-color: rgba(255, 255, 255, 0.9);
+      }
 
-    .loading #loader {
+      .loading #loader {
         opacity: 1;
-        visibility: visible
-    }
+        visibility: visible;
+      }
 
-    .loading #loader div {
+      .loading #loader div {
         display: inline-block;
         width: 50px;
         height: 50px;
@@ -131,12 +138,12 @@ cDKc.     .;IocXQW8c  .;cKX.      .cE##0B#0Q#####00###@@#@#BPc;,..         .;cZE
         -webkit-border-radius: 3px;
         border-radius: 3px;
         background-color: #fff;
-        -webkit-box-shadow: 0 0 3px rgba(0, 0, 0, .15);
-        box-shadow: 0 0 3px rgba(0, 0, 0, .15)
-    }
+        -webkit-box-shadow: 0 0 3px rgba(0, 0, 0, 0.15);
+        box-shadow: 0 0 3px rgba(0, 0, 0, 0.15);
+      }
 
-    .loading #loader div:before {
-        content: '';
+      .loading #loader div:before {
+        content: "";
         width: 26px;
         height: 26px;
         display: block;
@@ -148,51 +155,70 @@ cDKc.     .;IocXQW8c  .;cKX.      .cE##0B#0Q#####00###@@#@#BPc;,..         .;cZE
         border-top: 4px solid #0089fa;
         border-right: 4px solid #ff002b;
         border-bottom: 4px solid #ffa900;
-        border-left: 4px solid #00a753
-    }
+        border-left: 4px solid #00a753;
+      }
 
-    .loading #loader:after {
-        content: '';
+      .loading #loader:after {
+        content: "";
         display: inline-block;
         height: 100%;
-        vertical-align: middle
-    }
+        vertical-align: middle;
+      }
 
-    @keyframes loading {
+      @keyframes loading {
         100% {
-            transform: rotate(360deg)
+          transform: rotate(360deg);
         }
-    }
+      }
 
-    @-webkit-keyframes loading {
+      @-webkit-keyframes loading {
         100% {
-            -webkit-transform: rotate(360deg)
+          -webkit-transform: rotate(360deg);
         }
-    }
+      }
     </style>
-</head>
+  </head>
 
-<body>
+  <body>
     <div class="page home">
-        <div id="user"></div>
-        <div id="posts"></div>
+      <div id="user"></div>
+      <div id="posts"></div>
     </div>
     <div class="page post">
-        <div id="post"></div>
-        <div id="comments"></div>
+      <div id="post"></div>
+      <div id="comments"></div>
     </div>
     <div id="loader">
-        <div></div>
+      <div></div>
     </div>
-    <script type="text/javascript" src="https://lirawx.me/note/build.ef18d24e.js"></script>
+    <script type="text/javascript" src="/build.ef18d24e.js"></script>
     <script type="text/javascript">
-        console.log("博客地址: https://lirawx.me");
-        console.log("爱好: 摄影，游戏，听音乐，看小说");
-        console.log("%c Github %c", "background:#24272A; color:#ffffff", "", "https://github.com/lirawx");
-        console.log("%c weibo %c", "background:#24272A; color:#ffffff", "", "http://weibo.com/lirawxcn");
-        console.log("%c twitter %c", "background:#24272A; color:#ffffff", "", "https://twitter.com/lira_wx");
-        console.log("%c email %c", "background:#24272A; color:#ffffff", "", "i#lirawx.cn");
+      console.log("博客地址: https://lirawx.me");
+      console.log("爱好: 摄影，游戏，听音乐，看小说");
+      console.log(
+        "%c Github %c",
+        "background:#24272A; color:#ffffff",
+        "",
+        "https://github.com/lirawx"
+      );
+      console.log(
+        "%c weibo %c",
+        "background:#24272A; color:#ffffff",
+        "",
+        "http://weibo.com/lirawxcn"
+      );
+      console.log(
+        "%c twitter %c",
+        "background:#24272A; color:#ffffff",
+        "",
+        "https://twitter.com/lira_wx"
+      );
+      console.log(
+        "%c email %c",
+        "background:#24272A; color:#ffffff",
+        "",
+        "i#lirawx.cn"
+      );
     </script>
-</body>
-
+  </body>
 </html>
