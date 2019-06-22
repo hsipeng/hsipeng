@@ -43,7 +43,7 @@ def login():
 
 def get_ghiblog():
     global ghiblog
-    ghiblog = user.get_repo('%s/ghiblog' % user.get_user().login)
+    ghiblog = user.get_repo('%s/note' % user.get_user().login)
 
 
 def bundle_summary_section():
@@ -53,8 +53,8 @@ def bundle_summary_section():
 
     total_label_count = ghiblog.get_labels().totalCount
     total_issue_count = ghiblog.get_issues().totalCount
-    labels_html_url = 'https://github.com/%s/ghiblog/labels' % user.get_user().login
-    issues_html_url = 'https://github.com/%s/ghiblog/issues' % user.get_user().login
+    labels_html_url = 'https://github.com/%s/note/labels' % user.get_user().login
+    issues_html_url = 'https://github.com/%s/note/issues' % user.get_user().login
 
     summary_section = '''
 # GitHub Issues Blog :tada::tada::tada:
@@ -90,7 +90,7 @@ def format_issue_with_labels(issue: Issue):
         labels_str = '\n :label: \t' + sub('|')
 
     for label in labels:
-        labels_str += sub('[%s](https://github.com/%s/ghiblog/labels/%s)\t|\t' % (
+        labels_str += sub('[%s](https://github.com/%s/note/labels/%s)\t|\t' % (
             label.name, user.get_user().login, urllib.parse.quote(label.name)))
 
     return '- [%s](%s) %s  \t\t\t :alarm_clock:%s %s\n\n' % (
