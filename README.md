@@ -1,27 +1,28 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2019-08-23 00:09:34
+> :alarm_clock: 上次更新: 2019-08-24 00:09:32
     
-共 [79](https://github.com/lirawx/note/labels) 个标签, [75](https://github.com/lirawx/note/issues) 篇博文.
+共 [82](https://github.com/lirawx/note/labels) 个标签, [90](https://github.com/lirawx/note/issues) 篇博文.
 
 ## 置顶 :thumbsup: 
+- [网站工具Api搜集整理](https://github.com/lirawx/note/issues/78)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 07:18:28</sub> 
 - [Flutter 学习整理](https://github.com/lirawx/note/issues/76)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-17 03:36:46</sub> 
 ## 最新 :new: 
-- [Flutter 学习整理](https://github.com/lirawx/note/issues/76) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-05-17 03:36:46</sub> 
- :label: 	<sub>|</sub><sub>[:+1:置顶](https://github.com/lirawx/note/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)	|	</sub><sub>[flutter](https://github.com/lirawx/note/labels/flutter)	|	</sub>
+- [如何炼就数据分析的思维？](https://github.com/lirawx/note/issues/91) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-08-23 13:59:38</sub> 
+ :label: 	<sub>|</sub><sub>[数据分析](https://github.com/lirawx/note/labels/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90)	|	</sub>
 
-- [Data Analysis with Python——01](https://github.com/lirawx/note/issues/75) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-03-18 12:02:34</sub> 
- :label: 	<sub>|</sub><sub>[Data Analysis](https://github.com/lirawx/note/labels/Data%20Analysis)	|	</sub><sub>[NumPy](https://github.com/lirawx/note/labels/NumPy)	|	</sub><sub>[python](https://github.com/lirawx/note/labels/python)	|	</sub>
+- [数据分析惯用的5种思维方法](https://github.com/lirawx/note/issues/90) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-08-23 13:58:08</sub> 
+ :label: 	<sub>|</sub><sub>[数据分析](https://github.com/lirawx/note/labels/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90)	|	</sub>
 
-- [python 环境](https://github.com/lirawx/note/issues/74) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-03-09 03:09:20</sub> 
- :label: 	<sub>|</sub><sub>[python](https://github.com/lirawx/note/labels/python)	|	</sub>
+- [Data Analysis with Python——09](https://github.com/lirawx/note/issues/89) <sup>1 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-08-23 09:53:01</sub> 
+ :label: 	<sub>|</sub><sub>[Data Analysis with Python](https://github.com/lirawx/note/labels/Data%20Analysis%20with%20Python)	|	</sub><sub>[python](https://github.com/lirawx/note/labels/python)	|	</sub><sub>[数据分析](https://github.com/lirawx/note/labels/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90)	|	</sub>
 
-- [vue with typescript](https://github.com/lirawx/note/issues/73) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2018-11-04 04:16:33</sub> 
- :label: 	<sub>|</sub><sub>[typescript](https://github.com/lirawx/note/labels/typescript)	|	</sub><sub>[vue](https://github.com/lirawx/note/labels/vue)	|	</sub>
+- [Data Analysis with Python——08](https://github.com/lirawx/note/issues/88) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-08-23 09:52:04</sub> 
+ :label: 	<sub>|</sub><sub>[Data Analysis with Python](https://github.com/lirawx/note/labels/Data%20Analysis%20with%20Python)	|	</sub><sub>[python](https://github.com/lirawx/note/labels/python)	|	</sub><sub>[数据分析](https://github.com/lirawx/note/labels/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90)	|	</sub>
 
-- [webpack to umd package](https://github.com/lirawx/note/issues/72) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2018-09-07 23:09:11</sub> 
- :label: 	<sub>|</sub><sub>[Webpack](https://github.com/lirawx/note/labels/Webpack)	|	</sub>
+- [Data Analysis with Python——07](https://github.com/lirawx/note/issues/87) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-08-23 09:50:02</sub> 
+ :label: 	<sub>|</sub><sub>[Data Analysis with Python](https://github.com/lirawx/note/labels/Data%20Analysis%20with%20Python)	|	</sub><sub>[python](https://github.com/lirawx/note/labels/python)	|	</sub><sub>[数据分析](https://github.com/lirawx/note/labels/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90)	|	</sub>
 
 ## 分类  :card_file_box: 
 
@@ -37,8 +38,9 @@
 </details>
 
 <details>
-<summary>:+1:置顶	<sup>1:newspaper:</sup></summary>
+<summary>:+1:置顶	<sup>2:newspaper:</sup></summary>
 
+- [网站工具Api搜集整理](https://github.com/lirawx/note/issues/78)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 07:18:28</sub> 
 - [Flutter 学习整理](https://github.com/lirawx/note/issues/76)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-17 03:36:46</sub> 
 
 
@@ -64,6 +66,22 @@
 <summary>Data Analysis	<sup>1:newspaper:</sup></summary>
 
 - [Data Analysis with Python——01](https://github.com/lirawx/note/issues/75)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-03-18 12:02:34</sub> 
+
+
+</details>
+
+<details>
+<summary>Data Analysis with Python	<sup>9:newspaper:</sup></summary>
+
+- [Data Analysis with Python——09](https://github.com/lirawx/note/issues/89)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 09:53:01</sub> 
+- [Data Analysis with Python——08](https://github.com/lirawx/note/issues/88)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 09:52:04</sub> 
+- [Data Analysis with Python——07](https://github.com/lirawx/note/issues/87)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 09:50:02</sub> 
+- [Data Analysis with Python——06](https://github.com/lirawx/note/issues/86)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 09:20:21</sub> 
+- [Data Analysis with Python——05](https://github.com/lirawx/note/issues/85)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 09:11:11</sub> 
+- [Data Analysis with Python——04](https://github.com/lirawx/note/issues/84)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 09:09:48</sub> 
+- [Data Analysis with Python——03](https://github.com/lirawx/note/issues/83)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 09:08:38</sub> 
+- [Data Analysis with Python——02](https://github.com/lirawx/note/issues/82)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 09:05:34</sub> 
+- [Data Analysis with Python——01](https://github.com/lirawx/note/issues/81)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 08:54:05</sub> 
 
 
 </details>
@@ -302,8 +320,9 @@
 </details>
 
 <details>
-<summary>javascript	<sup>10:newspaper:</sup></summary>
+<summary>javascript	<sup>11:newspaper:</sup></summary>
 
+- [前端常用算法梳理](https://github.com/lirawx/note/issues/77)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 07:03:20</sub> 
 - [ES6 数组去重](https://github.com/lirawx/note/issues/57)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2018-06-23 05:24:14</sub> 
 - [函数式编程](https://github.com/lirawx/note/issues/49)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2018-06-04 23:25:35</sub> 
 - [javascript 转换](https://github.com/lirawx/note/issues/38)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2018-03-16 00:57:53</sub> 
@@ -396,8 +415,19 @@
 </details>
 
 <details>
-<summary>python	<sup>3:newspaper:</sup></summary>
+<summary>python	<sup>14:newspaper:</sup></summary>
 
+- [Data Analysis with Python——09](https://github.com/lirawx/note/issues/89)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 09:53:01</sub> 
+- [Data Analysis with Python——08](https://github.com/lirawx/note/issues/88)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 09:52:04</sub> 
+- [Data Analysis with Python——07](https://github.com/lirawx/note/issues/87)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 09:50:02</sub> 
+- [Data Analysis with Python——06](https://github.com/lirawx/note/issues/86)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 09:20:21</sub> 
+- [Data Analysis with Python——05](https://github.com/lirawx/note/issues/85)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 09:11:11</sub> 
+- [Data Analysis with Python——04](https://github.com/lirawx/note/issues/84)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 09:09:48</sub> 
+- [Data Analysis with Python——03](https://github.com/lirawx/note/issues/83)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 09:08:38</sub> 
+- [Data Analysis with Python——02](https://github.com/lirawx/note/issues/82)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 09:05:34</sub> 
+- [Data Analysis with Python——01](https://github.com/lirawx/note/issues/81)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 08:54:05</sub> 
+- [python数据分析之性能度量](https://github.com/lirawx/note/issues/80)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 08:52:36</sub> 
+- [python数据分析之数据缺失](https://github.com/lirawx/note/issues/79)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 08:51:38</sub> 
 - [Data Analysis with Python——01](https://github.com/lirawx/note/issues/75)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-03-18 12:02:34</sub> 
 - [python 环境](https://github.com/lirawx/note/issues/74)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-03-09 03:09:20</sub> 
 - [python之pyenv版本控制](https://github.com/lirawx/note/issues/15)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2017-07-05 05:05:46</sub> 
@@ -522,8 +552,9 @@
 </details>
 
 <details>
-<summary>前端	<sup>1:newspaper:</sup></summary>
+<summary>前端	<sup>2:newspaper:</sup></summary>
 
+- [前端常用算法梳理](https://github.com/lirawx/note/issues/77)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 07:03:20</sub> 
 - [柯里化](https://github.com/lirawx/note/issues/29)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2018-02-26 14:55:16</sub> 
 
 
@@ -566,6 +597,34 @@
 <details>
 <summary>技术	<sup>0:newspaper:</sup></summary>
 
+
+
+</details>
+
+<details>
+<summary>数据分析	<sup>13:newspaper:</sup></summary>
+
+- [如何炼就数据分析的思维？](https://github.com/lirawx/note/issues/91)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 13:59:38</sub> 
+- [数据分析惯用的5种思维方法](https://github.com/lirawx/note/issues/90)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 13:58:08</sub> 
+- [Data Analysis with Python——09](https://github.com/lirawx/note/issues/89)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 09:53:01</sub> 
+- [Data Analysis with Python——08](https://github.com/lirawx/note/issues/88)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 09:52:04</sub> 
+- [Data Analysis with Python——07](https://github.com/lirawx/note/issues/87)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 09:50:02</sub> 
+- [Data Analysis with Python——06](https://github.com/lirawx/note/issues/86)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 09:20:21</sub> 
+- [Data Analysis with Python——05](https://github.com/lirawx/note/issues/85)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 09:11:11</sub> 
+- [Data Analysis with Python——04](https://github.com/lirawx/note/issues/84)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 09:09:48</sub> 
+- [Data Analysis with Python——03](https://github.com/lirawx/note/issues/83)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 09:08:38</sub> 
+- [Data Analysis with Python——02](https://github.com/lirawx/note/issues/82)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 09:05:34</sub> 
+- [Data Analysis with Python——01](https://github.com/lirawx/note/issues/81)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 08:54:05</sub> 
+- [python数据分析之性能度量](https://github.com/lirawx/note/issues/80)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 08:52:36</sub> 
+- [python数据分析之数据缺失](https://github.com/lirawx/note/issues/79)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 08:51:38</sub> 
+
+
+</details>
+
+<details>
+<summary>数据缺失	<sup>1:newspaper:</sup></summary>
+
+- [python数据分析之数据缺失](https://github.com/lirawx/note/issues/79)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 08:51:38</sub> 
 
 
 </details>
@@ -652,8 +711,9 @@
 </details>
 
 <details>
-<summary>算法	<sup>1:newspaper:</sup></summary>
+<summary>算法	<sup>2:newspaper:</sup></summary>
 
+- [前端常用算法梳理](https://github.com/lirawx/note/issues/77)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 07:03:20</sub> 
 - [算法](https://github.com/lirawx/note/issues/36)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2018-03-10 06:14:28</sub> 
 
 
@@ -710,9 +770,9 @@
 
 ## 关于:boy: 
 
-[<img alt="X. Pearson" src="https://avatars3.githubusercontent.com/u/10678334?v=4" width="233"/>](https://github.com/lirawx)
+[<img alt="Peter. Xi. Peng" src="https://avatars3.githubusercontent.com/u/10678334?v=4" width="233"/>](https://github.com/lirawx)
 
-**X. Pearson**
+**Peter. Xi. Peng**
 
 :round_pushpin: Nan jing , China
 
