@@ -1,7 +1,7 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2019-09-03 00:09:31
+> :alarm_clock: 上次更新: 2019-09-04 00:09:24
     
 共 [82](https://github.com/lirawx/note/labels) 个标签, [90](https://github.com/lirawx/note/issues) 篇博文.
 
@@ -770,9 +770,9 @@
 
 ## 关于:boy: 
 
-[<img alt="Peter. Xi. Peng" src="https://avatars3.githubusercontent.com/u/10678334?v=4" width="233"/>](https://github.com/lirawx)
+[<img alt="Hsi P'eng" src="https://avatars3.githubusercontent.com/u/10678334?v=4" width="233"/>](https://github.com/lirawx)
 
-**Peter. Xi. Peng**
+**Hsi P'eng**
 
 :round_pushpin: Nan jing , China
 
