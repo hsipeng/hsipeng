@@ -1,14 +1,17 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2019-09-16 00:09:39
+> :alarm_clock: 上次更新: 2019-09-17 00:09:29
     
-共 [82](https://github.com/lirawx/note/labels) 个标签, [90](https://github.com/lirawx/note/issues) 篇博文.
+共 [83](https://github.com/lirawx/note/labels) 个标签, [91](https://github.com/lirawx/note/issues) 篇博文.
 
 ## 置顶 :thumbsup: 
 - [网站工具Api搜集整理](https://github.com/lirawx/note/issues/78)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-08-23 07:18:28</sub> 
 - [Flutter 学习整理](https://github.com/lirawx/note/issues/76)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-17 03:36:46</sub> 
 ## 最新 :new: 
+- [React 单元测试](https://github.com/lirawx/note/issues/92) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-09-16 08:17:22</sub> 
+ :label: 	<sub>|</sub><sub>[jest](https://github.com/lirawx/note/labels/jest)	|	</sub><sub>[react](https://github.com/lirawx/note/labels/react)	|	</sub><sub>[单元测试](https://github.com/lirawx/note/labels/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95)	|	</sub>
+
 - [如何炼就数据分析的思维？](https://github.com/lirawx/note/issues/91) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-08-23 13:59:38</sub> 
  :label: 	<sub>|</sub><sub>[数据分析](https://github.com/lirawx/note/labels/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90)	|	</sub>
 
@@ -19,9 +22,6 @@
  :label: 	<sub>|</sub><sub>[Data Analysis with Python](https://github.com/lirawx/note/labels/Data%20Analysis%20with%20Python)	|	</sub><sub>[python](https://github.com/lirawx/note/labels/python)	|	</sub><sub>[数据分析](https://github.com/lirawx/note/labels/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90)	|	</sub>
 
 - [Data Analysis with Python——08](https://github.com/lirawx/note/issues/88) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-08-23 09:52:04</sub> 
- :label: 	<sub>|</sub><sub>[Data Analysis with Python](https://github.com/lirawx/note/labels/Data%20Analysis%20with%20Python)	|	</sub><sub>[python](https://github.com/lirawx/note/labels/python)	|	</sub><sub>[数据分析](https://github.com/lirawx/note/labels/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90)	|	</sub>
-
-- [Data Analysis with Python——07](https://github.com/lirawx/note/issues/87) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-08-23 09:50:02</sub> 
  :label: 	<sub>|</sub><sub>[Data Analysis with Python](https://github.com/lirawx/note/labels/Data%20Analysis%20with%20Python)	|	</sub><sub>[python](https://github.com/lirawx/note/labels/python)	|	</sub><sub>[数据分析](https://github.com/lirawx/note/labels/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90)	|	</sub>
 
 ## 分类  :card_file_box: 
@@ -338,6 +338,14 @@
 </details>
 
 <details>
+<summary>jest	<sup>1:newspaper:</sup></summary>
+
+- [React 单元测试](https://github.com/lirawx/note/issues/92)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-09-16 08:17:22</sub> 
+
+
+</details>
+
+<details>
 <summary>jsonp	<sup>1:newspaper:</sup></summary>
 
 - [Promise Jsonp](https://github.com/lirawx/note/issues/50)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2018-06-04 23:26:58</sub> 
@@ -443,8 +451,9 @@
 </details>
 
 <details>
-<summary>react	<sup>12:newspaper:</sup></summary>
+<summary>react	<sup>13:newspaper:</sup></summary>
 
+- [React 单元测试](https://github.com/lirawx/note/issues/92)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-09-16 08:17:22</sub> 
 - [D3 与 React ](https://github.com/lirawx/note/issues/63)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2018-08-03 23:14:22</sub> 
 - [React 单元测试](https://github.com/lirawx/note/issues/62)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2018-08-03 23:12:47</sub> 
 - [React 服务端渲染](https://github.com/lirawx/note/issues/61)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2018-08-03 23:10:22</sub> 
@@ -561,8 +570,9 @@
 </details>
 
 <details>
-<summary>单元测试	<sup>1:newspaper:</sup></summary>
+<summary>单元测试	<sup>2:newspaper:</sup></summary>
 
+- [React 单元测试](https://github.com/lirawx/note/issues/92)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-09-16 08:17:22</sub> 
 - [React 单元测试](https://github.com/lirawx/note/issues/62)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2018-08-03 23:12:47</sub> 
 
 
