@@ -1,0 +1,39 @@
+name: CI
+
+on: [issues, issue_comment]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@master
+    - name: install dependencies
+      run: |
+        pip3 install setuptools --user
+        pip3 install PyGithub --user
+        pip3 install wordcloud --user
+        pip3 install matplotlib --user
+    - name: run python script
+      env:
+        GITHUB_LOGIN: lirawx
+        GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+      run: python3 main.py
+    - name: config git info
+      run: |
+        git config --global user.email "i@lirawx.cn"
+        git config --global user.name "lirawx"
+    - name: commit change
+      run: |
+        git checkout master
+        git add .
+        git commit -m "Update from Github Action"
+    - name: push change
+      env:
+        GITHUB_LOGIN: lirawx
+        GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+      run: |
+        git push https://$GITHUB_LOGIN:$GITHUB_TOKEN@github.com/lirawx/note.git
+    - name: done
+      run: echo 'done'
