@@ -39,15 +39,14 @@ def update_readme_md_file(contents):
 
 def login():
     global user, username
-    github_repo_env = os.environ.get('CURR_REPOSITORY')
-    username = github_repo_env[0:github_repo_env.index('/')]
-    password = os.environ.get('ACCESS_TOKEN')
+    username = 'lirawx'
+    password = os.environ.get('GITHUB_TOKEN')
     user = Github(username, password)
 
 
 def get_ghiblog():
     global ghiblog
-    ghiblog = user.get_repo(os.environ.get('CURR_REPOSITORY'))
+    ghiblog = user.get_repo(os.environ.get('GITHUB_REPOSITORY'))
 
 
 def bundle_summary_section():
