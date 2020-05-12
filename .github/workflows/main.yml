@@ -19,7 +19,8 @@ jobs:
       env:
         GITHUB_LOGIN: lirawx
         GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-      run: python3 main.py
+        GITHUB_REPOSITORY: ${{ secrets.CURR_REPOSITORY }}
+      run: python3 main_github_action.py
     - name: config git info
       run: |
         git config --global user.email "i@lirawx.cn"
@@ -33,7 +34,8 @@ jobs:
       env:
         GITHUB_LOGIN: lirawx
         GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        GITHUB_REPOSITORY: ${{ secrets.CURR_REPOSITORY }}
       run: |
-        git push https://$GITHUB_LOGIN:$GITHUB_TOKEN@github.com/$CURR_REPOSITORY.git
+        git push https://$GITHUB_LOGIN:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git
     - name: done
       run: echo 'done'
