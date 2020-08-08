@@ -2,22 +2,30 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/86"/>
     <img src="https://badgen.net/github/issues/lirawx/note"/>
-    <img src="https://badgen.net/badge/last-commit/2020-05-12 16:33:33"/>
+    <img src="https://badgen.net/badge/last-commit/2020-08-08 08:40:47"/>
     <img src="https://badgen.net/github/forks/lirawx/note"/>
     <img src="https://badgen.net/github/stars/lirawx/note"/>
     <img src="https://badgen.net/github/watchers/lirawx/note"/>
     <img src="https://badgen.net/github/release/lirawx/note"/>
 </p>
 <p align='center'>
-    <a href="https://visitor-badge.glitch.me/#docs">
-        <img src="https://visitor-badge.glitch.me/badge?page_id=lirawx.note"/>
-    </a>
+    <img src="http://hits.dwyl.com/lirawx/note.svg"/>
 </p>
 
 ## 置顶 :thumbsup: 
 - [网站工具Api搜集整理](https://github.com/lirawx/note/issues/78)  <sup>0 :speech_balloon:</sup>  	 
 - [Flutter 学习整理](https://github.com/lirawx/note/issues/76)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [前端知识总结](https://github.com/lirawx/note/issues/95) <sup>0 :speech_balloon:</sup> 	 2020-08-08 08:40:10
+:label: : [前端](https://github.com/lirawx/note/labels/%E5%89%8D%E7%AB%AF), [面试](https://github.com/lirawx/note/labels/%E9%9D%A2%E8%AF%95)
+自己整理出来的针对 P6 级别的前端知识体系
+
+欢迎批评指正
+
+地址是➡️  [https://lirawx.me/fedHtml/](https://lirawx.me/fedHtml/)
+[更多>>>](https://github.com/lirawx/note/issues/95)
+---
 
 #### [Redux 实现原理](https://github.com/lirawx/note/issues/94) <sup>0 :speech_balloon:</sup> 	 2020-05-12 16:27:43
 :label: : [react](https://github.com/lirawx/note/labels/react), [redux](https://github.com/lirawx/note/labels/redux)
@@ -74,26 +82,6 @@ B. 找出关系，进行分类。
 
 假设先行就是以假设作为思考的起点，先提出问题，然后用MECE
 [更多>>>](https://github.com/lirawx/note/issues/91)
----
-
-#### [数据分析惯用的5种思维方法](https://github.com/lirawx/note/issues/90) <sup>0 :speech_balloon:</sup> 	 2019-08-23 13:58:08
-:label: : [数据分析](https://github.com/lirawx/note/labels/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90)
-## 一、公式法
-
-举例：分析某产品的销售额较低的原因，用公式法分解
-
-某产品销售额=销售量 X 产品单价
-
-销售量=渠道A销售量 + 渠道B销售量 + 渠道C销售量 + …
-
-渠道销售量=点击用户数 X 下单率
-
-点击用户数=曝光量 X 点击率
-
-
-## 二、对比法
-
-[更多>>>](https://github.com/lirawx/note/issues/90)
 ---
 
 ## 分类  :card_file_box: 
@@ -534,7 +522,8 @@ B. 找出关系，进行分类。
 </details>
 
 <details>
-<summary>前端	<sup>2:newspaper:</sup></summary>
+<summary>前端	<sup>3:newspaper:</sup></summary>
+- [前端知识总结](https://github.com/lirawx/note/issues/95)  <sup>0 :speech_balloon:</sup>  	 
 - [前端常用算法梳理](https://github.com/lirawx/note/issues/77)  <sup>0 :speech_balloon:</sup>  	 
 - [柯里化](https://github.com/lirawx/note/issues/29)  <sup>0 :speech_balloon:</sup>  	 
 
@@ -690,7 +679,8 @@ B. 找出关系，进行分类。
 </details>
 
 <details>
-<summary>面试	<sup>3:newspaper:</sup></summary>
+<summary>面试	<sup>4:newspaper:</sup></summary>
+- [前端知识总结](https://github.com/lirawx/note/issues/95)  <sup>0 :speech_balloon:</sup>  	 
 - [面试纪要](https://github.com/lirawx/note/issues/33)  <sup>0 :speech_balloon:</sup>  	 
 - [this的指向](https://github.com/lirawx/note/issues/31)  <sup>0 :speech_balloon:</sup>  	 
 - [柯里化](https://github.com/lirawx/note/issues/29)  <sup>0 :speech_balloon:</sup>  	 
