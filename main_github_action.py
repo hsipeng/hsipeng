@@ -71,9 +71,7 @@ def bundle_summary_section():
     <img src="https://badgen.net/github/release/{0}/note"/>
 </p>
 <p align='center'>
-    <a href="https://visitor-badge.glitch.me/#docs">
-        <img src="https://visitor-badge.glitch.me/badge?page_id=lirawx.note"/>
-    </a>
+    <img src="http://hits.dwyl.com/lirawx/note.svg"/>
 </p>
 '''.format(username, total_label_count, cur_time)
 
