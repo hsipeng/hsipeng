@@ -2,13 +2,14 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/86"/>
     <img src="https://badgen.net/github/issues/hsipeng/note"/>
-    <img src="https://badgen.net/badge/last-commit/2021-06-29 08:53:10"/>
+    <img src="https://badgen.net/badge/last-commit/2021-06-29 08:58:14"/>
     <img src="https://badgen.net/github/forks/hsipeng/note"/>
     <img src="https://badgen.net/github/stars/hsipeng/note"/>
     <img src="https://badgen.net/github/watchers/hsipeng/note"/>
     <img src="https://badgen.net/github/release/hsipeng/note"/>
-    [![Github Actions](https://github.com/hsipeng/note/actions/workflows/main.yml/badge.svg)](https://github.com/hsipeng/note/actions/workflows/main.yml)
     </p>
+    
+    
 ## 置顶 :thumbsup: 
 - [前端知识总结](https://github.com/hsipeng/note/issues/95)  <sup>0 :speech_balloon:</sup>  	 
 - [网站工具Api搜集整理](https://github.com/hsipeng/note/issues/78)  <sup>0 :speech_balloon:</sup>  	 
