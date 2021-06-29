@@ -69,9 +69,7 @@ def bundle_summary_section():
     <img src="https://badgen.net/github/stars/{0}/note"/>
     <img src="https://badgen.net/github/watchers/{0}/note"/>
     <img src="https://badgen.net/github/release/{0}/note"/>
-</p>
-<p align='center'>
-    <img src="http://hits.dwyl.com/lirawx/note.svg"/>
+    [![Github Actions](https://github.com/hsipeng/note/actions/workflows/main.yml/badge.svg)](https://github.com/hsipeng/note/actions/workflows/main.yml)
 </p>
 '''.format(username, total_label_count, cur_time)
 
