@@ -2,14 +2,12 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/86"/>
     <img src="https://badgen.net/github/issues/lirawx/note"/>
-    <img src="https://badgen.net/badge/last-commit/2021-06-29 08:38:20"/>
+    <img src="https://badgen.net/badge/last-commit/2021-06-29 08:42:57"/>
     <img src="https://badgen.net/github/forks/lirawx/note"/>
     <img src="https://badgen.net/github/stars/lirawx/note"/>
     <img src="https://badgen.net/github/watchers/lirawx/note"/>
     <img src="https://badgen.net/github/release/lirawx/note"/>
-</p>
-<p align='center'>
-    <img src="http://hits.dwyl.com/lirawx/note.svg"/>
+    [![Github Actions](https://github.com/hsipeng/note/actions/workflows/main.yml/badge.svg)](https://github.com/hsipeng/note/actions/workflows/main.yml)
 </p>
 
 ## 置顶 :thumbsup: 
