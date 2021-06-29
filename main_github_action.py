@@ -39,7 +39,7 @@ def update_readme_md_file(contents):
 
 def login():
     global user, username
-    username = 'lirawx'
+    username = os.environ.get('GITHUB_LOGIN')
     password = os.environ.get('GITHUB_TOKEN')
     user = Github(username, password)
 
@@ -69,10 +69,12 @@ def bundle_summary_section():
     <img src="https://badgen.net/github/stars/{0}/note"/>
     <img src="https://badgen.net/github/watchers/{0}/note"/>
     <img src="https://badgen.net/github/release/{0}/note"/>
-    [![Github Actions](https://github.com/hsipeng/note/actions/workflows/main.yml/badge.svg)](https://github.com/hsipeng/note/actions/workflows/main.yml)
-</p>
-'''.format(username, total_label_count, cur_time)
-
+    '''.format(username, total_label_count, cur_time)
+    
+    # add github ci
+    summary_section += '''[![Github Actions](https://github.com/hsipeng/note/actions/workflows/main.yml/badge.svg)](https://github.com/hsipeng/note/actions/workflows/main.yml)
+    </p>'''
+    
     return summary_section
 
 
