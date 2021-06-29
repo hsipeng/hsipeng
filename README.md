@@ -2,7 +2,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/86"/>
     <img src="https://badgen.net/github/issues/lirawx/note"/>
-    <img src="https://badgen.net/badge/last-commit/2021-06-29 08:26:19"/>
+    <img src="https://badgen.net/badge/last-commit/2021-06-29 08:38:20"/>
     <img src="https://badgen.net/github/forks/lirawx/note"/>
     <img src="https://badgen.net/github/stars/lirawx/note"/>
     <img src="https://badgen.net/github/watchers/lirawx/note"/>
