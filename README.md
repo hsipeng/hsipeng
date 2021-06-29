@@ -2,7 +2,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/86"/>
     <img src="https://badgen.net/github/issues/lirawx/note"/>
-    <img src="https://badgen.net/badge/last-commit/2021-06-29 08:23:27"/>
+    <img src="https://badgen.net/badge/last-commit/2021-06-29 08:26:19"/>
     <img src="https://badgen.net/github/forks/lirawx/note"/>
     <img src="https://badgen.net/github/stars/lirawx/note"/>
     <img src="https://badgen.net/github/watchers/lirawx/note"/>
@@ -13,6 +13,7 @@
 </p>
 
 ## 置顶 :thumbsup: 
+- [前端知识总结](https://github.com/hsipeng/note/issues/95)  <sup>0 :speech_balloon:</sup>  	 
 - [网站工具Api搜集整理](https://github.com/hsipeng/note/issues/78)  <sup>0 :speech_balloon:</sup>  	 
 - [Flutter 学习整理](https://github.com/hsipeng/note/issues/76)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
@@ -33,12 +34,12 @@ const a: B<s
 ---
 
 #### [前端知识总结](https://github.com/hsipeng/note/issues/95) <sup>0 :speech_balloon:</sup> 	 2020-08-08 08:40:10
-:label: : [前端](https://github.com/lirawx/note/labels/%E5%89%8D%E7%AB%AF), [面试](https://github.com/lirawx/note/labels/%E9%9D%A2%E8%AF%95)
+:label: : [:+1:置顶](https://github.com/lirawx/note/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6), [前端](https://github.com/lirawx/note/labels/%E5%89%8D%E7%AB%AF), [面试](https://github.com/lirawx/note/labels/%E9%9D%A2%E8%AF%95)
 自己整理出来的针对 P6 级别的前端知识体系
 
 欢迎批评指正
 
-地址是➡️  [https://lirawx.me/fedHtml/](https://lirawx.me/fedHtml/)
+地址是➡️  [http://hsipeng.github.io/fed](http://hsipeng.github.io/fed)
 [更多>>>](https://github.com/hsipeng/note/issues/95)
 ---
 
@@ -97,7 +98,8 @@ server {
 </details>
 
 <details>
-<summary>:+1:置顶	<sup>2:newspaper:</sup></summary>
+<summary>:+1:置顶	<sup>3:newspaper:</sup></summary>
+- [前端知识总结](https://github.com/hsipeng/note/issues/95)  <sup>0 :speech_balloon:</sup>  	 
 - [网站工具Api搜集整理](https://github.com/hsipeng/note/issues/78)  <sup>0 :speech_balloon:</sup>  	 
 - [Flutter 学习整理](https://github.com/hsipeng/note/issues/76)  <sup>1 :speech_balloon:</sup>  	 
 
