@@ -13,7 +13,7 @@ authors: hsipeng
 # token
 # token should be separated by '#'
 # example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
-token: 3#7e09f384d0a761a8901b59d5e903651eeb34435
+token: 3#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
 
 # posts per page
 perpage: 5
