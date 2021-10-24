@@ -2,7 +2,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/86"/>
     <img src="https://badgen.net/github/issues/hsipeng/note"/>
-    <img src="https://badgen.net/badge/last-commit/2021-06-29 08:58:14"/>
+    <img src="https://badgen.net/badge/last-commit/2021-10-24 09:05:59"/>
     <img src="https://badgen.net/github/forks/hsipeng/note"/>
     <img src="https://badgen.net/github/stars/hsipeng/note"/>
     <img src="https://badgen.net/github/watchers/hsipeng/note"/>
@@ -17,7 +17,7 @@
 ## 最新 :new: 
 
 #### [Typescripts 总结](https://github.com/hsipeng/note/issues/96) <sup>0 :speech_balloon:</sup> 	 2021-06-29 08:22:54
-:label: : [typescript](https://github.com/hsipeng/note/labels/typescript), [面试](https://github.com/hsipeng/note/labels/%E9%9D%A2%E8%AF%95)
+:label: : [面试](https://github.com/hsipeng/note/labels/%E9%9D%A2%E8%AF%95), [typescript](https://github.com/hsipeng/note/labels/typescript)
 
 [总结TypeScript在项目开发中的应用实践体会](https://juejin.cn/post/6970841540776329224)
 
@@ -32,7 +32,7 @@ const a: B<s
 ---
 
 #### [前端知识总结](https://github.com/hsipeng/note/issues/95) <sup>0 :speech_balloon:</sup> 	 2020-08-08 08:40:10
-:label: : [:+1:置顶](https://github.com/hsipeng/note/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6), [前端](https://github.com/hsipeng/note/labels/%E5%89%8D%E7%AB%AF), [面试](https://github.com/hsipeng/note/labels/%E9%9D%A2%E8%AF%95)
+:label: : [面试](https://github.com/hsipeng/note/labels/%E9%9D%A2%E8%AF%95), [前端](https://github.com/hsipeng/note/labels/%E5%89%8D%E7%AB%AF), [:+1:置顶](https://github.com/hsipeng/note/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)
 自己整理出来的针对 P6 级别的前端知识体系
 
 欢迎批评指正
@@ -69,7 +69,7 @@ server {
 ---
 
 #### [React 单元测试](https://github.com/hsipeng/note/issues/92) <sup>0 :speech_balloon:</sup> 	 2019-09-16 08:17:22
-:label: : [jest](https://github.com/hsipeng/note/labels/jest), [react](https://github.com/hsipeng/note/labels/react), [单元测试](https://github.com/hsipeng/note/labels/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95)
+:label: : [react](https://github.com/hsipeng/note/labels/react), [单元测试](https://github.com/hsipeng/note/labels/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95), [jest](https://github.com/hsipeng/note/labels/jest)
 ## 为何必须做单元测试
 
 * 单元测试对于任何 React 项目（及其他任何项目）来说都是必须的
@@ -87,15 +87,6 @@ server {
     </summary>
 
 <details>
-<summary>2B青年	<sup>4:newspaper:</sup></summary>
-- [初爱](https://github.com/hsipeng/note/issues/23)  <sup>0 :speech_balloon:</sup>  	 
-- [关山月](https://github.com/hsipeng/note/issues/22)  <sup>0 :speech_balloon:</sup>  	 
-- [雪中歌](https://github.com/hsipeng/note/issues/21)  <sup>0 :speech_balloon:</sup>  	 
-- [江上有感](https://github.com/hsipeng/note/issues/18)  <sup>0 :speech_balloon:</sup>  	 
-
-</details>
-
-<details>
 <summary>:+1:置顶	<sup>3:newspaper:</sup></summary>
 - [前端知识总结](https://github.com/hsipeng/note/issues/95)  <sup>0 :speech_balloon:</sup>  	 
 - [网站工具Api搜集整理](https://github.com/hsipeng/note/issues/78)  <sup>0 :speech_balloon:</sup>  	 
@@ -109,111 +100,11 @@ server {
 </details>
 
 <details>
-<summary>Curry	<sup>1:newspaper:</sup></summary>
-- [柯里化](https://github.com/hsipeng/note/issues/29)  <sup>0 :speech_balloon:</sup>  	 
-
-</details>
-
-<details>
-<summary>D3	<sup>1:newspaper:</sup></summary>
-- [D3 与 React ](https://github.com/hsipeng/note/issues/63)  <sup>0 :speech_balloon:</sup>  	 
-
-</details>
-
-<details>
-<summary>Data Analysis	<sup>1:newspaper:</sup></summary>
-- [Data Analysis with Python——01](https://github.com/hsipeng/note/issues/75)  <sup>0 :speech_balloon:</sup>  	 
-
-</details>
-
-<details>
-<summary>Data Analysis with Python	<sup>9:newspaper:</sup></summary>
-- [Data Analysis with Python——09](https://github.com/hsipeng/note/issues/89)  <sup>1 :speech_balloon:</sup>  	 
-- [Data Analysis with Python——08](https://github.com/hsipeng/note/issues/88)  <sup>0 :speech_balloon:</sup>  	 
-- [Data Analysis with Python——07](https://github.com/hsipeng/note/issues/87)  <sup>0 :speech_balloon:</sup>  	 
-- [Data Analysis with Python——06](https://github.com/hsipeng/note/issues/86)  <sup>0 :speech_balloon:</sup>  	 
-- [Data Analysis with Python——05](https://github.com/hsipeng/note/issues/85)  <sup>0 :speech_balloon:</sup>  	 
-- [Data Analysis with Python——04](https://github.com/hsipeng/note/issues/84)  <sup>0 :speech_balloon:</sup>  	 
-- [Data Analysis with Python——03](https://github.com/hsipeng/note/issues/83)  <sup>0 :speech_balloon:</sup>  	 
-- [Data Analysis with Python——02](https://github.com/hsipeng/note/issues/82)  <sup>0 :speech_balloon:</sup>  	 
-- [Data Analysis with Python——01](https://github.com/hsipeng/note/issues/81)  <sup>0 :speech_balloon:</sup>  	 
-
-</details>
-
-<details>
-<summary>ES6	<sup>3:newspaper:</sup></summary>
-- [ES6 数组去重](https://github.com/hsipeng/note/issues/57)  <sup>0 :speech_balloon:</sup>  	 
-- [ES6 知识点整理](https://github.com/hsipeng/note/issues/34)  <sup>0 :speech_balloon:</sup>  	 
-- [【译】ES 6 代理 (Proxy) 简介 ](https://github.com/hsipeng/note/issues/32)  <sup>0 :speech_balloon:</sup>  	 
-
-</details>
-
-<details>
-<summary>MiniProgram	<sup>1:newspaper:</sup></summary>
-- [小程序ios 安卓兼容性](https://github.com/hsipeng/note/issues/65)  <sup>0 :speech_balloon:</sup>  	 
-
-</details>
-
-<details>
-<summary>Mybatis	<sup>1:newspaper:</sup></summary>
-- [java SSM框架的搭建](https://github.com/hsipeng/note/issues/25)  <sup>0 :speech_balloon:</sup>  	 
-
-</details>
-
-<details>
-<summary>NumPy	<sup>1:newspaper:</sup></summary>
-- [Data Analysis with Python——01](https://github.com/hsipeng/note/issues/75)  <sup>0 :speech_balloon:</sup>  	 
-
-</details>
-
-<details>
-<summary>Raspberry Pi	<sup>0:newspaper:</sup></summary>
-
-</details>
-
-<details>
-<summary>Re: Zero	<sup>2:newspaper:</sup></summary>
-- [Re: Zero JSX 回调函数中的 this](https://github.com/hsipeng/note/issues/44)  <sup>0 :speech_balloon:</sup>  	 
-- [## Re: Zero 学习一个组件](https://github.com/hsipeng/note/issues/43)  <sup>0 :speech_balloon:</sup>  	 
-
-</details>
-
-<details>
-<summary>SSM	<sup>1:newspaper:</sup></summary>
-- [java SSM框架的搭建](https://github.com/hsipeng/note/issues/25)  <sup>0 :speech_balloon:</sup>  	 
-
-</details>
-
-<details>
-<summary>Spring	<sup>1:newspaper:</sup></summary>
-- [java SSM框架的搭建](https://github.com/hsipeng/note/issues/25)  <sup>0 :speech_balloon:</sup>  	 
-
-</details>
-
-<details>
-<summary>SpringMVC	<sup>1:newspaper:</sup></summary>
-- [java SSM框架的搭建](https://github.com/hsipeng/note/issues/25)  <sup>0 :speech_balloon:</sup>  	 
-
-</details>
-
-<details>
-<summary>Travis CI	<sup>1:newspaper:</sup></summary>
-- [travis ci 持续集成](https://github.com/hsipeng/note/issues/26)  <sup>0 :speech_balloon:</sup>  	 
-
-</details>
-
-<details>
-<summary>Webpack	<sup>10:newspaper:</sup></summary>
-- [webpack to umd package](https://github.com/hsipeng/note/issues/72)  <sup>0 :speech_balloon:</sup>  	 
-- [webpack 4 - webpack-merge to config dev prod environment quickly](https://github.com/hsipeng/note/issues/71)  <sup>0 :speech_balloon:</sup>  	 
-- [webpack4-HMR with webpack-dev-server](https://github.com/hsipeng/note/issues/70)  <sup>0 :speech_balloon:</sup>  	 
-- [webpack4-Atuo serve dist file](https://github.com/hsipeng/note/issues/69)  <sup>0 :speech_balloon:</sup>  	 
-- [# webpack4-command line without config file](https://github.com/hsipeng/note/issues/68)  <sup>0 :speech_balloon:</sup>  	 
-- [webpack4 - Basic config](https://github.com/hsipeng/note/issues/67)  <sup>0 :speech_balloon:</sup>  	 
-- [react webpack babel 三剑客错误处理](https://github.com/hsipeng/note/issues/53)  <sup>0 :speech_balloon:</sup>  	 
-- [webpack 3.5.5 文档 再读](https://github.com/hsipeng/note/issues/52)  <sup>0 :speech_balloon:</sup>  	 
-- [webpack 4 ](https://github.com/hsipeng/note/issues/39)  <sup>0 :speech_balloon:</sup>  	 
-- [Webpack 入门](https://github.com/hsipeng/note/issues/11)  <sup>0 :speech_balloon:</sup>  	 
+<summary>2B青年	<sup>4:newspaper:</sup></summary>
+- [初爱](https://github.com/hsipeng/note/issues/23)  <sup>0 :speech_balloon:</sup>  	 
+- [关山月](https://github.com/hsipeng/note/issues/22)  <sup>0 :speech_balloon:</sup>  	 
+- [雪中歌](https://github.com/hsipeng/note/issues/21)  <sup>0 :speech_balloon:</sup>  	 
+- [江上有感](https://github.com/hsipeng/note/issues/18)  <sup>0 :speech_balloon:</sup>  	 
 
 </details>
 
@@ -259,12 +150,52 @@ server {
 </details>
 
 <details>
+<summary>Curry	<sup>1:newspaper:</sup></summary>
+- [柯里化](https://github.com/hsipeng/note/issues/29)  <sup>0 :speech_balloon:</sup>  	 
+
+</details>
+
+<details>
+<summary>D3	<sup>1:newspaper:</sup></summary>
+- [D3 与 React ](https://github.com/hsipeng/note/issues/63)  <sup>0 :speech_balloon:</sup>  	 
+
+</details>
+
+<details>
+<summary>Data Analysis	<sup>1:newspaper:</sup></summary>
+- [Data Analysis with Python——01](https://github.com/hsipeng/note/issues/75)  <sup>0 :speech_balloon:</sup>  	 
+
+</details>
+
+<details>
+<summary>Data Analysis with Python	<sup>9:newspaper:</sup></summary>
+- [Data Analysis with Python——09](https://github.com/hsipeng/note/issues/89)  <sup>1 :speech_balloon:</sup>  	 
+- [Data Analysis with Python——08](https://github.com/hsipeng/note/issues/88)  <sup>0 :speech_balloon:</sup>  	 
+- [Data Analysis with Python——07](https://github.com/hsipeng/note/issues/87)  <sup>0 :speech_balloon:</sup>  	 
+- [Data Analysis with Python——06](https://github.com/hsipeng/note/issues/86)  <sup>0 :speech_balloon:</sup>  	 
+- [Data Analysis with Python——05](https://github.com/hsipeng/note/issues/85)  <sup>0 :speech_balloon:</sup>  	 
+- [Data Analysis with Python——04](https://github.com/hsipeng/note/issues/84)  <sup>0 :speech_balloon:</sup>  	 
+- [Data Analysis with Python——03](https://github.com/hsipeng/note/issues/83)  <sup>0 :speech_balloon:</sup>  	 
+- [Data Analysis with Python——02](https://github.com/hsipeng/note/issues/82)  <sup>0 :speech_balloon:</sup>  	 
+- [Data Analysis with Python——01](https://github.com/hsipeng/note/issues/81)  <sup>0 :speech_balloon:</sup>  	 
+
+</details>
+
+<details>
 <summary>duplicate	<sup>0:newspaper:</sup></summary>
 
 </details>
 
 <details>
 <summary>enhancement	<sup>0:newspaper:</sup></summary>
+
+</details>
+
+<details>
+<summary>ES6	<sup>3:newspaper:</sup></summary>
+- [ES6 数组去重](https://github.com/hsipeng/note/issues/57)  <sup>0 :speech_balloon:</sup>  	 
+- [ES6 知识点整理](https://github.com/hsipeng/note/issues/34)  <sup>0 :speech_balloon:</sup>  	 
+- [【译】ES 6 代理 (Proxy) 简介 ](https://github.com/hsipeng/note/issues/32)  <sup>0 :speech_balloon:</sup>  	 
 
 </details>
 
@@ -359,6 +290,18 @@ server {
 </details>
 
 <details>
+<summary>MiniProgram	<sup>1:newspaper:</sup></summary>
+- [小程序ios 安卓兼容性](https://github.com/hsipeng/note/issues/65)  <sup>0 :speech_balloon:</sup>  	 
+
+</details>
+
+<details>
+<summary>Mybatis	<sup>1:newspaper:</sup></summary>
+- [java SSM框架的搭建](https://github.com/hsipeng/note/issues/25)  <sup>0 :speech_balloon:</sup>  	 
+
+</details>
+
+<details>
 <summary>mysql	<sup>1:newspaper:</sup></summary>
 - [Mysql 备忘](https://github.com/hsipeng/note/issues/45)  <sup>0 :speech_balloon:</sup>  	 
 
@@ -375,6 +318,12 @@ server {
 <details>
 <summary>npm	<sup>1:newspaper:</sup></summary>
 - [publish package to npmjs.com](https://github.com/hsipeng/note/issues/66)  <sup>0 :speech_balloon:</sup>  	 
+
+</details>
+
+<details>
+<summary>NumPy	<sup>1:newspaper:</sup></summary>
+- [Data Analysis with Python——01](https://github.com/hsipeng/note/issues/75)  <sup>0 :speech_balloon:</sup>  	 
 
 </details>
 
@@ -424,6 +373,18 @@ server {
 </details>
 
 <details>
+<summary>Raspberry Pi	<sup>0:newspaper:</sup></summary>
+
+</details>
+
+<details>
+<summary>Re: Zero	<sup>2:newspaper:</sup></summary>
+- [Re: Zero JSX 回调函数中的 this](https://github.com/hsipeng/note/issues/44)  <sup>0 :speech_balloon:</sup>  	 
+- [## Re: Zero 学习一个组件](https://github.com/hsipeng/note/issues/43)  <sup>0 :speech_balloon:</sup>  	 
+
+</details>
+
+<details>
 <summary>react	<sup>14:newspaper:</sup></summary>
 - [Redux 实现原理](https://github.com/hsipeng/note/issues/94)  <sup>0 :speech_balloon:</sup>  	 
 - [React 单元测试](https://github.com/hsipeng/note/issues/92)  <sup>0 :speech_balloon:</sup>  	 
@@ -451,6 +412,18 @@ server {
 </details>
 
 <details>
+<summary>Spring	<sup>1:newspaper:</sup></summary>
+- [java SSM框架的搭建](https://github.com/hsipeng/note/issues/25)  <sup>0 :speech_balloon:</sup>  	 
+
+</details>
+
+<details>
+<summary>SpringMVC	<sup>1:newspaper:</sup></summary>
+- [java SSM框架的搭建](https://github.com/hsipeng/note/issues/25)  <sup>0 :speech_balloon:</sup>  	 
+
+</details>
+
+<details>
 <summary>ssh	<sup>1:newspaper:</sup></summary>
 - [ssh 权限问题](https://github.com/hsipeng/note/issues/41)  <sup>0 :speech_balloon:</sup>  	 
 
@@ -463,6 +436,12 @@ server {
 </details>
 
 <details>
+<summary>SSM	<sup>1:newspaper:</sup></summary>
+- [java SSM框架的搭建](https://github.com/hsipeng/note/issues/25)  <sup>0 :speech_balloon:</sup>  	 
+
+</details>
+
+<details>
 <summary>ssr	<sup>1:newspaper:</sup></summary>
 - [React 服务端渲染](https://github.com/hsipeng/note/issues/61)  <sup>0 :speech_balloon:</sup>  	 
 
@@ -471,6 +450,12 @@ server {
 <details>
 <summary>this	<sup>1:newspaper:</sup></summary>
 - [this的指向](https://github.com/hsipeng/note/issues/31)  <sup>0 :speech_balloon:</sup>  	 
+
+</details>
+
+<details>
+<summary>Travis CI	<sup>1:newspaper:</sup></summary>
+- [travis ci 持续集成](https://github.com/hsipeng/note/issues/26)  <sup>0 :speech_balloon:</sup>  	 
 
 </details>
 
@@ -498,6 +483,21 @@ server {
 <summary>vue	<sup>2:newspaper:</sup></summary>
 - [vue with typescript](https://github.com/hsipeng/note/issues/73)  <sup>0 :speech_balloon:</sup>  	 
 - [vue全面介绍--全家桶（vue笔记一）](https://github.com/hsipeng/note/issues/10)  <sup>0 :speech_balloon:</sup>  	 
+
+</details>
+
+<details>
+<summary>Webpack	<sup>10:newspaper:</sup></summary>
+- [webpack to umd package](https://github.com/hsipeng/note/issues/72)  <sup>0 :speech_balloon:</sup>  	 
+- [webpack 4 - webpack-merge to config dev prod environment quickly](https://github.com/hsipeng/note/issues/71)  <sup>0 :speech_balloon:</sup>  	 
+- [webpack4-HMR with webpack-dev-server](https://github.com/hsipeng/note/issues/70)  <sup>0 :speech_balloon:</sup>  	 
+- [webpack4-Atuo serve dist file](https://github.com/hsipeng/note/issues/69)  <sup>0 :speech_balloon:</sup>  	 
+- [# webpack4-command line without config file](https://github.com/hsipeng/note/issues/68)  <sup>0 :speech_balloon:</sup>  	 
+- [webpack4 - Basic config](https://github.com/hsipeng/note/issues/67)  <sup>0 :speech_balloon:</sup>  	 
+- [react webpack babel 三剑客错误处理](https://github.com/hsipeng/note/issues/53)  <sup>0 :speech_balloon:</sup>  	 
+- [webpack 3.5.5 文档 再读](https://github.com/hsipeng/note/issues/52)  <sup>0 :speech_balloon:</sup>  	 
+- [webpack 4 ](https://github.com/hsipeng/note/issues/39)  <sup>0 :speech_balloon:</sup>  	 
+- [Webpack 入门](https://github.com/hsipeng/note/issues/11)  <sup>0 :speech_balloon:</sup>  	 
 
 </details>
 
