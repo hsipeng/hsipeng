@@ -2,7 +2,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/86"/>
     <img src="https://badgen.net/github/issues/hsipeng/note"/>
-    <img src="https://badgen.net/badge/last-commit/2021-10-24 09:05:59"/>
+    <img src="https://badgen.net/badge/last-commit/2021-10-24 09:08:20"/>
     <img src="https://badgen.net/github/forks/hsipeng/note"/>
     <img src="https://badgen.net/github/stars/hsipeng/note"/>
     <img src="https://badgen.net/github/watchers/hsipeng/note"/>
